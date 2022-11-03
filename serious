@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            exercise
+        </title>
+        <style>
+            .holder{
+                width: 300px;
+                height: 30px;
+                border-radius: 0ch;
+            }
+            .lap{
+                color: gray;
+                font-family: arial;
+                padding-left: 30ox;
+            }
+            .button-class{
+                padding-top: 10px;
+                padding-bottom: 10px;
+                padding-right: 100px;
+                padding-left: 10px;
+                color: white;
+                background-color: rgb(21, 96, 187);
+                border: none;
+                border-radius: 25px;
+                text-indent: 60px;
+                
+            }
+            .button-class :hover{
+                opacity: 30px;
+        </style>
+    </head>
+    <body>
+        <p class="lap">
+            Email
+        </p>
+        <p>
+        <input class="holder" type="text">
+        </p>
+        <p>
+            By clicking agree&#38;join, you agree to the privacy policy
+        </p>
+        <button class="button-class">
+            Agree &#38; join
+            
+        </button>
+
+    </body>
+</html>
